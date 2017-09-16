@@ -1,0 +1,6 @@
+SolidStateOutput	KEYWORD1
+Process	KEYWORD2
+State	LITERAL2
+Feedback	KEYWORD2
+Invert	LITERAL2
+ScanTime	LITERAL2
